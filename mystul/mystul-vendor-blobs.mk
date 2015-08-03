@@ -130,30 +130,30 @@ PRODUCT_COPY_FILES += \
         vendor/htc/mystul/proprietary/lib/libqmiservices.so:/system/lib/libqmiservices.so \
         vendor/htc/mystul/proprietary/lib/libril-qc-qmi-1.so:/system/lib/libril-qc-qmi-1.so \
         vendor/htc/mystul/proprietary/lib/libril-qcril-hook-oem.so:/system/lib/libril-qcril-hook-oem.so \
-        vendor/htc/mystul/proprietary/vendor/lib/libwvdrm_L1.so:/system/vendor/lib/libwvdrm_L1.so \
-        vendor/htc/mystul/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
-        vendor/htc/mystul/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:/system/vendor/lib/libWVStreamControlAPI_L1.so \
         vendor/htc/mystul/proprietary/lib/libdrmdecrypt.so:/system/lib/libdrmdecrypt.so \
         vendor/htc/mystul/proprietary/lib/libdrmfs.so:/system/lib/libdrmfs.so \
         vendor/htc/mystul/proprietary/lib/libdrmtime.so:/system/lib/libdrmtime.so \
-        vendor/htc/mystul/proprietary/lib/egl/eglsubAndroid.so:/system/lib/egl/eglsubAndroid.so \
-        vendor/htc/mystul/proprietary/lib/egl/libEGL_adreno.so:/system/lib/egl/libEGL_adreno.so \
-        vendor/htc/mystul/proprietary/lib/egl/libGLESv1_CM_adreno.so:/system/lib/egl/libGLESv1_CM_adreno.so \
-        vendor/htc/mystul/proprietary/lib/egl/libGLESv2S3D_adreno.so:/system/lib/egl/libGLESv2S3D_adreno.so \
-        vendor/htc/mystul/proprietary/lib/egl/libGLESv2_adreno.so:/system/lib/egl/libGLESv2_adreno.so \
-        vendor/htc/mystul/proprietary/lib/egl/libq3dtools_adreno.so:/system/lib/egl/libq3dtools_adreno.so \
-        vendor/htc/mystul/proprietary/lib/libC2D2.so:/system/lib/libC2D2.so \
-        vendor/htc/mystul/proprietary/lib/libCB.so:/system/lib/libCB.so \
-        vendor/htc/mystul/proprietary/lib/libOpenCL.so:/system/lib/libOpenCL.so \
-        vendor/htc/mystul/proprietary/lib/libOpenVG.so:/system/lib/libOpenVG.so \
-        vendor/htc/mystul/proprietary/lib/libadreno_utils.so:/system/lib/libadreno_utils.so \
-        vendor/htc/mystul/proprietary/lib/libc2d2_a3xx.so:/system/lib/libc2d2_a3xx.so \
-        vendor/htc/mystul/proprietary/lib/libc2d2_z180.so:/system/lib/libc2d2_z180.so \
-        vendor/htc/mystul/proprietary/lib/libgsl.so:/system/lib/libgsl.so \
-        vendor/htc/mystul/proprietary/lib/libllvm-a3xx.so:/system/lib/libllvm-a3xx.so \
-        vendor/htc/mystul/proprietary/lib/libllvm-arm.so:/system/lib/libllvm-arm.so \
-        vendor/htc/mystul/proprietary/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
-        vendor/htc/mystul/proprietary/lib/libsc-a3xx.so:/system/lib/libsc-a3xx.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libwvdrm_L1.so:/system/vendor/lib/libwvdrm_L1.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:/system/vendor/lib/libWVStreamControlAPI_L1.so \
+        vendor/htc/mystul/proprietary/vendor/lib/egl/eglsubAndroid.so:/system/vendor/lib/egl/eglsubAndroid.so \
+        vendor/htc/mystul/proprietary/vendor/lib/egl/libEGL_adreno.so:/system/vendor/lib/egl/libEGL_adreno.so \
+        vendor/htc/mystul/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:/system/vendor/lib/egl/libGLESv1_CM_adreno.so \
+        vendor/htc/mystul/proprietary/vendor/lib/egl/libGLESv2S3D_adreno.so:/system/vendor/lib/egl/libGLESv2S3D_adreno.so \
+        vendor/htc/mystul/proprietary/vendor/lib/egl/libGLESv2_adreno.so:/system/vendor/lib/egl/libGLESv2_adreno.so \
+        vendor/htc/mystul/proprietary/vendor/lib/egl/libq3dtools_adreno.so:/system/vendor/lib/egl/libq3dtools_adreno.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libC2D2.so:/system/vendor/lib/libC2D2.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libCB.so:/system/vendor/lib/libCB.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libOpenCL.so:/system/vendor/lib/libOpenCL.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libOpenVG.so:/system/vendor/lib/libOpenVG.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libadreno_utils.so:/system/vendor/lib/libadreno_utils.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libc2d2_a3xx.so:/system/vendor/lib/libc2d2_a3xx.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libc2d2_z180.so:/system/vendor/lib/libc2d2_z180.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libgsl.so:/system/vendor/lib/libgsl.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libllvm-a3xx.so:/system/vendor/lib/libllvm-a3xx.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libllvm-arm.so:/system/vendor/lib/libllvm-arm.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libsc-a2xx.so:/system/vendor/lib/libsc-a2xx.so \
+        vendor/htc/mystul/proprietary/vendor/lib/libsc-a3xx.so:/system/vendor/lib/libsc-a3xx.so \
         vendor/htc/mystul/proprietary/bin/netmgrd:/system/bin/netmgrd \
         vendor/htc/mystul/proprietary/bin/qmuxd:/system/bin/qmuxd \
         vendor/htc/mystul/proprietary/lib/libdiag.so:/system/lib/libdiag.so \
