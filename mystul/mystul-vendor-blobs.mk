@@ -23,6 +23,11 @@ PRODUCT_COPY_FILES += \
         vendor/htc/mystul/proprietary/lib/libQSEEComAPI.so:/system/lib/libQSEEComAPI.so \
         vendor/htc/mystul/proprietary/etc/agps_rm:/system/etc/agps_rm \
         vendor/htc/mystul/proprietary/lib/libloc_api_v02.so:/system/lib/libloc_api_v02.so \
+	vendor/htc/mystul/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+	vendor/htc/mystul/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+	vendor/htc/mystul/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+	vendor/htc/mystul/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+	vendor/htc/mystul/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
         vendor/htc/mystul/proprietary/etc/firmware/BCM4334B0_002.001.013.1352.1353.hcd:/system/etc/firmware/BCM4334B0_002.001.013.1352.1353.hcd \
         vendor/htc/mystul/proprietary/etc/firmware/a300_pfp.fw:/system/etc/firmware/a300_pfp.fw \
         vendor/htc/mystul/proprietary/etc/firmware/a300_pm4.fw:/system/etc/firmware/a300_pm4.fw \
