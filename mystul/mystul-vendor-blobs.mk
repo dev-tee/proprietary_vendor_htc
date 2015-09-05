@@ -74,6 +74,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/mystul/proprietary/lib/libacdbloader.so:/system/lib/libacdbloader.so \
         vendor/htc/mystul/proprietary/lib/libaudcal.so:/system/lib/libaudcal.so \
         vendor/htc/mystul/proprietary/bin/mm-qcamera-daemon:/system/bin/mm-qcamera-daemon \
+	vendor/htc/mystul/proprietary/lib/hw/camera.vendor.msm8960.so:system/lib/hw/camera.vendor.msm8960.so \
         vendor/htc/mystul/proprietary/lib/libBeautyChat.so:/system/lib/libBeautyChat.so \
         vendor/htc/mystul/proprietary/lib/libcam_oem_plugin.so:/system/lib/libcam_oem_plugin.so \
         vendor/htc/mystul/proprietary/lib/libcameraasd.so:/system/lib/libcameraasd.so \
