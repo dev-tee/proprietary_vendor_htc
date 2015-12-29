@@ -53,9 +53,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/mystul/proprietary/etc/tfa/playback.config:/system/etc/tfa/playback.config \
         vendor/htc/mystul/proprietary/etc/tfa/playback.eq:/system/etc/tfa/playback.eq \
         vendor/htc/mystul/proprietary/etc/tfa/playback.preset:/system/etc/tfa/playback.preset \
-        vendor/htc/mystul/proprietary/etc/tfa/recorder.config:/system/etc/tfa/recorder.config \
-        vendor/htc/mystul/proprietary/etc/tfa/recorder.eq:/system/etc/tfa/recorder.eq \
-        vendor/htc/mystul/proprietary/etc/tfa/recorder.preset:/system/etc/tfa/recorder.preset \
         vendor/htc/mystul/proprietary/etc/tfa/ring.config:/system/etc/tfa/ring.config \
         vendor/htc/mystul/proprietary/etc/tfa/ring.eq:/system/etc/tfa/ring.eq \
         vendor/htc/mystul/proprietary/etc/tfa/ring.preset:/system/etc/tfa/ring.preset \
