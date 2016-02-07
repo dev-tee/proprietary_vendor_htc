@@ -50,7 +50,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/mystul/proprietary/etc/firmware/vidc.b03:/system/etc/firmware/vidc.b03 \
         vendor/htc/mystul/proprietary/etc/firmware/vidc.mdt:/system/etc/firmware/vidc.mdt \
         vendor/htc/mystul/proprietary/etc/firmware/vidc_1080p.fw:/system/etc/firmware/vidc_1080p.fw \
-        vendor/htc/mystul/proprietary/etc/tfa/deftcoefA.speaker:/system/etc/tfa/deftcoefA.speaker \
         vendor/htc/mystul/proprietary/etc/tfa/playback.config:/system/etc/tfa/playback.config \
         vendor/htc/mystul/proprietary/etc/tfa/playback.eq:/system/etc/tfa/playback.eq \
         vendor/htc/mystul/proprietary/etc/tfa/playback.preset:/system/etc/tfa/playback.preset \
