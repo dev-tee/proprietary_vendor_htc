@@ -65,7 +65,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/mystul/proprietary/etc/tfa/voice.config:/system/etc/tfa/voice.config \
         vendor/htc/mystul/proprietary/etc/tfa/voice.eq:/system/etc/tfa/voice.eq \
         vendor/htc/mystul/proprietary/etc/tfa/voice.preset:/system/etc/tfa/voice.preset \
-        vendor/htc/mystul/proprietary/lib/hw/nfc.default.so:/system/lib/hw/nfc.default.so \
         vendor/htc/mystul/proprietary/vendor/firmware/libpn544_fw.so:/system/vendor/firmware/libpn544_fw.so \
         vendor/htc/mystul/proprietary/lib/hw/sensors.default.so:/system/lib/hw/sensors.default.so \
         vendor/htc/mystul/proprietary/lib/libacdbloader.so:/system/lib/libacdbloader.so \
