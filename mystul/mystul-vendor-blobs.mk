@@ -156,21 +156,4 @@ PRODUCT_COPY_FILES += \
         vendor/htc/mystul/proprietary/vendor/lib/libllvm-a3xx.so:/system/vendor/lib/libllvm-a3xx.so \
         vendor/htc/mystul/proprietary/vendor/lib/libllvm-arm.so:/system/vendor/lib/libllvm-arm.so \
         vendor/htc/mystul/proprietary/vendor/lib/libsc-a2xx.so:/system/vendor/lib/libsc-a2xx.so \
-        vendor/htc/mystul/proprietary/vendor/lib/libsc-a3xx.so:/system/vendor/lib/libsc-a3xx.so \
-        vendor/htc/mystul/proprietary/bin/netmgrd:/system/bin/netmgrd \
-        vendor/htc/mystul/proprietary/bin/qmuxd:/system/bin/qmuxd \
-        vendor/htc/mystul/proprietary/lib/libdiag.so:/system/lib/libdiag.so \
-        vendor/htc/mystul/proprietary/lib/libdsi_netctrl.so:/system/lib/libdsi_netctrl.so \
-        vendor/htc/mystul/proprietary/lib/libdsutils.so:/system/lib/libdsutils.so \
-        vendor/htc/mystul/proprietary/lib/libidl.so:/system/lib/libidl.so \
-        vendor/htc/mystul/proprietary/lib/libqdi.so:/system/lib/libqdi.so \
-        vendor/htc/mystul/proprietary/lib/libqdp.so:/system/lib/libqdp.so \
-        vendor/htc/mystul/proprietary/lib/libqmi_cci.so:/system/lib/libqmi_cci.so \
-        vendor/htc/mystul/proprietary/lib/libqmi_common_so.so:/system/lib/libqmi_common_so.so \
-        vendor/htc/mystul/proprietary/lib/libqmi_csi.so:/system/lib/libqmi_csi.so \
-        vendor/htc/mystul/proprietary/lib/libqmi_encdec.so:/system/lib/libqmi_encdec.so \
-        vendor/htc/mystul/proprietary/lib/libqmiservices.so:/system/lib/libqmiservices.so \
-        vendor/htc/mystul/proprietary/lib/libqmi.so:/system/lib/libqmi.so \
-        vendor/htc/mystul/proprietary/lib/libnetmgr.so:/system/lib/libnetmgr.so \
-        vendor/htc/mystul/proprietary/lib/libril-qc-qmi-1.so:/system/lib/libril-qc-qmi-1.so \
-        vendor/htc/mystul/proprietary/lib/libril-qcril-hook-oem.so:/system/lib/libril-qcril-hook-oem.so
+        vendor/htc/mystul/proprietary/vendor/lib/libsc-a3xx.so:/system/vendor/lib/libsc-a3xx.so
